@@ -1,9 +1,11 @@
+remote_theme : BlackrockDigital/startbootstrap-clean-blog-jekyll
+
 title:             Clean Blog
 email:             your-email@example.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+baseurl:           ""
+url:               "http:///D2D.github.io"
 
 # Social Profiles
 twitter_username:  SBootstrap
@@ -16,4 +18,4 @@ paginate:          5
 paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+- jekyll-paginate
